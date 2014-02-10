@@ -7,3 +7,8 @@ and that user is displayed as a contributor of the post. You are also able to vi
 I collaborated with Ramin, Andy, Jason, Mike, Joel, Miles, and Liam.
 
 ![screenshot](https://www.dropbox.com/s/c1dwsrlal2r9iib/qa.png?dl=1)
+
+License
+===
+
+[MIT License](http://elliotec.mit-license.org/)
